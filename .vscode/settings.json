@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "java/vetorDeBusca",
+        "java/frase",
+        "java/tratamento"
+    ]
+}
